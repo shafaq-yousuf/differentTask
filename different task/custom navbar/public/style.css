@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ja1w4fyf7DnONdL_Y9Ac9uU4ckF7goFTqqkD3J2hCDHbS3yWzIVQf7H8Py4pTyY-P5M&usqp=CAU);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    /* width: 1000vw; */
+    /* height: 1000vh; */
+}
+nav{
+    /* margin: 200px; */
+    /* padding: 20px; */
+    /* border: solid red; */
+    background-color: rgb(12, 13, 13);
+}
+nav ul li {
+
+    
+    margin: 20px;
+    padding: 20px;
+    list-style: none;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+nav ul li a{
+ text-decoration: none;
+ color: white;
+ 
+ 
+}
+.first{
+    /* border: solid red; */
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+    margin-right: 900px;
+    font-size: 28px;
+}
+div p{
+    margin: 10px; 
+    
+}
+.nav-ul{
+    text-align: center;
+}
+.logo{
+    font-size: 10px;
+    color: white;
+    position: absolute;
+    top: 2px;
+    left: 50px;
+}
+.button{
+    position: absolute;
+    right: 30px;
+    top: 2px ;
+}
